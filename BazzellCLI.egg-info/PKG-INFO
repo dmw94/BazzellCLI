@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: BazzellCLI
+Version: 1.0.0
+Summary: BazzellCLI brings IntelTechniques Search Tools to the command line.
+Home-page: https://github.com/dmw94/BazzellCLI
+Author: dmw94
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7

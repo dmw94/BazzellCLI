@@ -1,0 +1,9 @@
+README.md
+bazzellCLI.py
+setup.py
+BazzellCLI.egg-info/PKG-INFO
+BazzellCLI.egg-info/SOURCES.txt
+BazzellCLI.egg-info/dependency_links.txt
+BazzellCLI.egg-info/entry_points.txt
+BazzellCLI.egg-info/requires.txt
+BazzellCLI.egg-info/top_level.txt

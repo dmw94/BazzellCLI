@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: bazzellpy
+Version: 1.0.1
+Summary: IntelTechniques OSINT tools as callable functions in Python!
+Author: dmw94
+License: GPLv3
+Keywords: osint,searching,scraping
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+
+bazzellpy allows you to call IntelTechniques Search Tools as functions in your Python program. This useful suite of OSINT tools are a great start for any investigation. I wanted to be able to call on these tools without having to re-paste code when working on more complex projects. I have made this library available so you can too.
